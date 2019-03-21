@@ -1,2 +1,2 @@
 # Hello-World
-first github repository
+first github repository.this is my blog.
